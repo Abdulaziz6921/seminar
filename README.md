@@ -41,11 +41,11 @@
 
 ### 1. Клонируйте репозиторий
 
-git clone https://github.com/yourusername/seminar-management-app.git
+git clone https://github.com/Abdulaziz6921/seminar.git
 
 ### 2. Перейдите в каталог проекта и установите необходимые пакеты:
 
-cd seminar-management-app
+cd seminar
 npm install
 
 ### 3.терминале запустите React-приложение и запустите json-server:
