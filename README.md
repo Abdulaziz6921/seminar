@@ -49,6 +49,6 @@ cd seminar
 
 npm install
 
-### 3.терминале запустите React-приложение и запустите json-server:
+### 3. Терминале запустите React-приложение и сразу вместо с json-server:
 
 npm run dev:all
