@@ -46,6 +46,7 @@ git clone https://github.com/Abdulaziz6921/seminar.git
 ### 2. Перейдите в каталог проекта и установите необходимые пакеты:
 
 cd seminar
+
 npm install
 
 ### 3.терминале запустите React-приложение и запустите json-server:
